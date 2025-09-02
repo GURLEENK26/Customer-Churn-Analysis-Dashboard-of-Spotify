@@ -17,7 +17,7 @@ By leveraging **advanced analytics**, the dashboard highlights key drivers of ch
 ---
 
 ## 📊 **Dashboard Preview**
-[![Dashboard Preview](https://img.icons8.com/external-flat-juicy-fish/64/external-dashboard-business-and-finance-flat-flat-juicy-fish.png)](https://drive.google.com/file/d/1QMVnY4VbPOTBh6r6swVfPHLx3Hw4PRbk/view?usp=sharing)  
+[![Dashboard Preview](https://img.icons8.com/external-flat-juicy-fish/64/external-dashboard-business-and-finance-flat-flat-juicy-fish.png)](spotify_dash.png)  
 
 ---
 
