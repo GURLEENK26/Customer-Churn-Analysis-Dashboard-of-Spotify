@@ -17,7 +17,7 @@ By leveraging **advanced analytics**, the dashboard highlights key drivers of ch
 ---
 
 ## 📊 **Dashboard Preview**
-[Dashboard Preview](spotify_dash.png)
+[Dashboard](spotify_dash.png)
 
 ---
 
