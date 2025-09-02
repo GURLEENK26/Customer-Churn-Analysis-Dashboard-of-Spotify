@@ -1,21 +1,65 @@
-# Customer Churn Analysis Dashboard of Spotify
+🎧 Customer Churn Analysis Dashboard – Spotify
+📌 Project Overview
 
-Thrilled to share my latest project: the Customer Churn Analysis Dashboard of Spotify, built to analyze and predict customer retention trends.
-This dashboard provides deep insights into user demographics, subscription types, listening behavior, and churn patterns. By leveraging Power BI’s advanced analytics and visualization features, it highlights key factors influencing churn and offers actionable recommendations to improve customer retention strategies.
+This project focuses on analyzing and predicting customer churn behavior for Spotify users.
+The Power BI dashboard provides a clear picture of user demographics, subscription patterns, listening behavior, and churn risks.
 
-This project showcases my ability to combine data analysis, visualization, and business intelligence to deliver insights that empower decision-makers to enhance user experience and reduce churn.
+By leveraging advanced analytics, the dashboard highlights key drivers of churn and offers actionable insights to improve retention strategies, enhance user experience, and support data-driven decision-making.
 
-## 🔹 Tools Used  
-Power BI | DAX | Data Modeling | Advanced Visualization Techniques
+🔧 Tools & Technologies
 
-## 🔹 Dashboard Preview  
-![Dashboard](https://drive.google.com/file/d/1QMVnY4VbPOTBh6r6swVfPHLx3Hw4PRbk/view?usp=sharing)  
+Power BI → Advanced visualizations & reporting
 
-## 🔹 Key Insights 
+DAX → Calculated measures and KPIs
 
-•Analyzed 7K+ customer records for churn behavior
-•Cleaned & transformed 15+ attributes using Python & SQL
-•Created Power BI dashboard with real-time churn/retention
-metrics
-•Highlighted fiber-optic & month-to-month churn risks;
-enabled 20% retention improvement
+Data Modeling → Relationship management across datasets
+
+Python & SQL → Data cleaning, transformation, and preprocessing
+
+📊 Dashboard Preview
+
+(Add your dashboard screenshot here)
+
+🌟 Key Insights
+
+✔️ 7K+ Customer Records analyzed for churn & retention behavior
+✔️ 15+ Attributes Cleaned & Transformed using Python & SQL
+✔️ Real-Time Metrics for churn rate, retention %, and user engagement
+✔️ Risk Segmentation – Month-to-month and fiber-optic customers identified as high churn risks
+✔️ 20% Retention Improvement Potential by addressing highlighted churn factors
+
+📂 Features of the Dashboard
+
+Customer Demographics → Age, gender, region analysis
+
+Subscription Trends → Monthly vs annual plans, premium vs free users
+
+Churn Drivers → Contract type, tenure, payment method correlations
+
+Engagement Metrics → Listening frequency, active users, conversion rate
+
+Interactive Filters → Drill-down by region, subscription type, or demographics
+
+🎯 Business Impact
+
+Helps marketing teams identify high-risk churn segments
+
+Provides strategic recommendations to boost retention
+
+Enhances customer experience by targeting pain points
+
+Drives data-backed decision making for leadership
+
+🚀 How to Use
+
+Download the .pbix file from this repository.
+
+Open in Power BI Desktop.
+
+Use slicers & filters to explore churn insights interactively.
+
+📝 Conclusion
+
+The Spotify Customer Churn Dashboard is a powerful analytics tool that uncovers why customers leave, predicts churn patterns, and helps decision-makers design effective retention strategies.
+
+By combining Power BI, DAX, SQL, and Python, this project demonstrates strong expertise in data analytics, business intelligence, and storytelling through dashboards.
